@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  identifiant: MyString
+  motdepasse: MyString
+  nom: MyString
+  ttenter=integer: MyString
+  ttsortit: 1
+
+two:
+  identifiant: MyString
+  motdepasse: MyString
+  nom: MyString
+  ttenter=integer: MyString
+  ttsortit: 1
